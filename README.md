@@ -10,3 +10,4 @@
 Elsur-psixoloq/Elsur-psixoloq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Elsur-psixoloq/MusicAzBot)
